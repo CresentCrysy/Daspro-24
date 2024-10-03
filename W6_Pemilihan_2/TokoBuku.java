@@ -2,7 +2,7 @@ package W6_Pemilihan_2;
 import java.util.Scanner;
 public class TokoBuku {
     public static void main(String[] args) {
-        String buku;
+        String buku="";
         int jumlah=0; //hargaKamus = 50000, hargaNovel = 100000, hargaBukuLain = 150000,
         //banyakKamus, banyaNovel, banyakBukulain;
         double diskon; //diskonKamus = 0.10, diskonNovel = 0.07, diskonLainnya = 0,
